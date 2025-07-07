@@ -38,5 +38,21 @@ Utilized **Telerik Reporting tools** to design, deploy, and manage multiple adva
 
 ## 📸 Screenshots
 
+![Companyreport](Screenshot/Companyreport.png)
+
+![Beforepreview](Screenshot/Beforepreview.png)
+
+![exportfile](Screenshot/exportfile.png)
+
+![linechart1](Screenshot/linechart1.png)
+
+![linechart2](Screenshot/linechart2.png)
+
+![mailing](Screenshot/mailing.png)
+
+![participantreport](Screenshot/participantreport.png)
+
+![searchtab](Screenshot/searchtab.png)
+
 
 
